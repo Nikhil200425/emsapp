@@ -1,0 +1,36 @@
+*
+{
+  font-size: 105%;
+}
+body{
+  background-color: aqua;
+}
+.nav
+{
+background-color:black;  }
+.nav a {color:white;text-decoration:None; margin:5%;}
+
+h1
+{
+border-style:solid;
+margin:5%;
+width:50%;
+border-radius:30px;
+}
+
+h2
+{
+border-style:solid;
+margin:5%;
+width:50%;
+}
+
+p
+{
+  font-size: 60px;
+border-style:solid;
+margin:5%;
+width:50%;
+border-radius:30px;
+}
+textarea{resize: none;}
